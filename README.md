@@ -1,7 +1,7 @@
 Hello this is an app that i made in year 2025-2026 during high school 
 It is a Pinterest-inspired app to find & save perfect gifts.
 
-Demo Video
+Demo Video of my app
 (https://youtu.be/d5_LVYkVuSc)
 
 User Flow
@@ -17,6 +17,8 @@ My Proudest design are the home page and the calender because i design it so peo
 Apps Used : Adobe XD , Ibis Paint X , Pinterest
 
 A few screenshot of my design
+
+
 <img width="200" alt="log in" src="https://github.com/user-attachments/assets/28becec4-587b-4bd4-9ed3-8bb22c04191f" />
 <img width="200" alt="homeee" src="https://github.com/user-attachments/assets/fa9aa8ae-5342-485b-83f5-23201aaabe4b" />
 <img width="200" alt="search" src="https://github.com/user-attachments/assets/2ef1add9-2de8-4b6d-9bd5-74c57d4f8c97" />
