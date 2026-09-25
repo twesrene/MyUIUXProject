@@ -1,6 +1,10 @@
 Hello this is an app that i made in year 2025-2026 during high school 
 It is a Pinterest-inspired app to find & save perfect gifts.
 
+Reasons why i made this app:
+I made this app because i keep noticing that alot of people often get overwhelmed on what gift to give to friends ,family or even their lover .
+This made me inspired to make an app that is centered around gift giving.
+
 Demo Video of my app
 (https://youtu.be/d5_LVYkVuSc)
 
@@ -12,7 +16,7 @@ User Flow
 - Gift Detail
 - Reminder
 
-My Proudest design are the home page and the calender because i design it so people can directly see the functions without needing a guide because the app is easy to follow ,for the calender people often forgot about their loved ones birthday so thats why i create a reminder to help those who often forget.
+My Proudest design are the home page and the calender because i design it so people can directly see the functions without needing a guide because the app is easy to follow ,for the calender people often forgot about their love ones birthday so thats why i create a reminder to help those who often forget.
 
 Apps Used : Adobe XD , Ibis Paint X , Pinterest
 
